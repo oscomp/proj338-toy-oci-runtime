@@ -20,15 +20,15 @@ NaN
 
 陈麟轩 `<chenlinxuan#deepin_org>`
 
-### 难度
+## 难度
 
 高
 
-### 相关文档
+## 参考文档
 
 - https://github.com/opencontainers/runtime-spec
 
-### 预期目标
+## 预期目标
 
 1. 能够按照标准实现相应的功能；
 2. 能够实现标准之外其他OCI runtime程序通常具有的
@@ -38,7 +38,7 @@ NaN
 
    等常见功能。
 
-### 特征
+## 特征
 
 - 容器相关工具基本使用经验；
 - 操作系统原理相关基础知识；
