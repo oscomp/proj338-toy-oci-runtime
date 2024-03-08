@@ -16,6 +16,9 @@ OCI 容器运行时实现
 
 NaN
 
+## 赛题分类
+未归类运行时支撑
+
 ## 项目导师
 
 陈麟轩 `<chenlinxuan#deepin_org>`
